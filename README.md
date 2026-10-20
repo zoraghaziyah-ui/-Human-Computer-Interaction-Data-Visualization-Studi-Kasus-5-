@@ -1,0 +1,3 @@
+# Studi Kasus: Evaluasi dan Visualisasi Interaktif Dashboard KPI (HCI & Data Visualization)
+Dalam materi dijelaskan bahwa visualisasi data yang baik harus memadukan prinsip psikologi kognitif (seperti Gestalt principles dan pre-attentive attributes) serta prinsip interaksi (overview first, zoom and filter, details on demand) agar dashboard intuitif bagi pengguna seperti Budi (seorang data analis).
+Studi kasus ini mensimulasikan pembuatan dan pemrosesan data dashboard interaktif menggunakan Python (pandas dan matplotlib/seaborn) untuk memantau Key Performance Indicator (KPI) harian serta mendeteksi anomali secara visual.
